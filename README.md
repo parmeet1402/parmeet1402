@@ -37,7 +37,7 @@
 
 ## 🔗 Social Links
 
-[![](https://img.shields.io/badge/-@avi_codes-%23000000?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/avi_codes)
+[![](https://img.shields.io/badge/-@avi.codes-%23000000?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/avi.codes)
 [![](https://img.shields.io/badge/-@avi_codes-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/avi_codes)
 [![](https://img.shields.io/badge/-@parmeet_singh_codes-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff)](http://linkedin.com/in/parmeet-singh-codes)
 [![](https://img.shields.io/badge/-parmeetsasija@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=fff)](mailto:parmeetsasija@gmail.com)
