@@ -35,7 +35,7 @@
 
 <br />
 
-## 🔗 Links
+## 📫 How to reach me
 
 [![](https://img.shields.io/badge/-@avi.codes-%23000000?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/avi.codes)
 [![](https://img.shields.io/badge/-@avi_codes-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/avi_codes)
