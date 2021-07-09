@@ -37,8 +37,8 @@
 
 ## 📫 How to reach me
 
-[![](https://img.shields.io/badge/-@avi.codes-%23000000?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/avi.codes)
-[![](https://img.shields.io/badge/-@avi_codes-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/avi_codes)
-[![](https://img.shields.io/badge/-@parmeet_singh_codes-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff)](http://linkedin.com/in/parmeet-singh-codes)
+[![](https://img.shields.io/badge/-@parmeetasija-%23000000?style=flat-square&logo=instagram&logoColor=fff)](https://instagram.com/parmeetasija)
+[![](https://img.shields.io/badge/-@parmeetasija-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/parmeetasija)
+[![](https://img.shields.io/badge/-@parmeetasija-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff)](http://linkedin.com/in/parmeetasija)
 [![](https://img.shields.io/badge/-parmeetsasija@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=fff)](mailto:parmeetsasija@gmail.com)
 <!-- [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me) -->
