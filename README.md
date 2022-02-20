@@ -9,7 +9,12 @@
 
 <br />
 
-#### [🚀 View Projects](https://www.parmeetasija.com/projects)
+## 🔗 Links
+#### [🚀  Projects & Case Studies](https://www.parmeetasija.com/projects)
+#### [🌎  Wesbite](https://www.parmeetasija.com/)
+#### [📝  Blog](https://www.parmeetasija.com/blog)
+#### [📝  Instagram Blog](https://www.instagram.com/parmeetasija/)
+
 
 <br />
 
